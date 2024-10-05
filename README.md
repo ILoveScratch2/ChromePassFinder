@@ -10,7 +10,7 @@ Principle:
 
 Place chrome stored it's password database:
 ```
-C:\\Users\\\[USERNAME\]\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data
+C:\\Users\\ \[USERNAME\] \\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data
 ```
 Place chrome stored it's encryption key for password database:
 ```
