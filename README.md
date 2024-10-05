@@ -1,5 +1,5 @@
 # ChromePassFinder
-A simple python tool for get Google Chrome web browser's stored passwords without permission or computer password.
+A simple python tool for get Google Chrome web browser's stored passwords without permission or computer password. (only compatible on windows)
 
 
 ---
@@ -10,11 +10,11 @@ Principle:
 
 Place chrome stored it's password database:
 ```
-C:\\Users\\ [USERNAME] \\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data
+C:\Users\[USERNAME]\AppData\Local\Google\Chrome\User Data\Default\Login Data
 ```
 Place chrome stored it's encryption key for password database:
 ```
-C:\\Users\\[USERNAME]\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Local State
+C:\Users\[USERNAME]\AppData\Local\Google\Chrome\User Data\Default\Local State
 ```
 
 Chromium code\(chromium/src/main/components/os_crypt/os_crypt_win.cc\ Line 183):
