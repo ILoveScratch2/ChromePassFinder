@@ -40,11 +40,11 @@ Usage:
 ```
 main.py [-h] (help)
 ```
-#Example:
+Example:
 ```
 main.py -h
 ```
-#Output:
+Output:
 ```
 usage: main.py [-h] search_url
 
@@ -86,11 +86,11 @@ Decrypt Login Data:
 ```
 main.py [website url]    (search record for a website)
 ```
-#Example:
+Example:
 ```
 main.py https://vjudge.net/
 ```
-#Output:
+Output:
 ```
 Decrypt Login Data:
 ('https://vjudge.net/', 'Hello', '1234567')
