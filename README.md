@@ -4,7 +4,7 @@ A simple python tool for get Google Chrome web browser's stored passwords withou
 
 ---
 
-Principle:
+## Principle:
 
 [Chromium](https://source.chromium.org/chromium/chromium/src/+/main:components/os_crypt/sync/os_crypt_win.cc;l=1?q=os_crypt_win&sq=&ss=chromium ) has explicitly written out its own decryption process in the open source code as follows
 
@@ -35,7 +35,7 @@ bool OSCryptImpl::DecryptString16(const std::string& ciphertext,
 
 
 ---
-Usage:
+## Usage:
 
 ```
 main.py [-h] (help)
