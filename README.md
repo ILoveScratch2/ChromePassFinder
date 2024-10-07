@@ -74,7 +74,6 @@ Decrypt Login Data:
 ('https://signup.live.com/signup', 'test2@outlook.com', 'whatTheHeaven')
 ('https://signup.live.com/signup', 'test@outlook.com', 'fairyBluePotato')
 ('https://github.com/login', 'ILoveScratch2', 'IWontTellYouPassword')
-('https://passport.ccf.org.cn/sso/login/do', '13480129170', 'Ywd1217')
 ('https://login.live.com/login.srf', 'django202333@outlook.com', 'MyPasswprd')
 ('https://vjudge.net/', 'Hello', '1234567')
 ('https://www.class.com/', 'helloworld', 'password11111')
