@@ -61,11 +61,11 @@ options:
 ```
 main.py   (no arguments)
 ```
-#Example:
+Example:
 ```
 main.py
 ```
-#Output \( passwords are all fake in this example\) : 
+Output \( passwords are all fake in this example\) : 
 ```
 Decrypt Login Data:
 ('https://twitter.com/login/error', 'hello@gmail.com', 'hellohello')
